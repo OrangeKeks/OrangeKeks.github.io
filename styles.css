@@ -1,0 +1,214 @@
+*
+{
+    color: white;
+padding: 0%;
+margin: 0%;
+}
+html
+{
+background-color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#square
+{
+    width: 50px;
+    height: 20px;
+    background-color: aliceblue;
+}
+.shapka
+{
+    
+    background-color: #171717;
+    display: flex;
+    justify-content: center;
+   
+}
+.category
+{
+   color: aliceblue;
+    margin: 17px 70px;
+
+}
+#AboutMe
+{
+    margin-top: 10px;
+text-align: center;
+}
+#ProgressPhoto
+{
+width: 300px;
+height: 200px;
+
+
+}
+
+
+.blocked
+{
+display: flex;
+
+}
+.ProgressFace
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.Card
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 10px;
+}
+.YearsOld
+{
+    margin-top: 10px;
+}
+#MyTestSpeed
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+text-align: center;
+}
+a 
+{
+text-decoration: none;
+}
+a:hover
+{
+text-decoration: underline;
+}
+img
+{
+border-radius: 30px;
+}
+#SeventyYear
+{
+    border-radius: 20%;
+    transform: scale(1.0);
+    transition: transform 0.9s;
+}
+#SeventyYear:hover
+{
+    transform: scale(1.12);
+    transition: transform 0.9s;
+}
+#TwentyThreeYear
+{
+    border-radius: 20%;
+    transform: scale(1.0);
+    transition: transform 0.9s;
+}
+#TwentyThreeYear:hover
+{
+    transform: scale(1.12);
+    transition: transform 0.9s;
+}
+#myChart
+{
+margin-bottom: 20px;
+
+}
+p
+{
+    text-align: center;
+    margin-bottom: 20px;
+}
+h1
+{
+text-align: center;
+margin-bottom: 20px;
+}
+.TableOfWorks
+{
+text-align: center;
+font-size: 25px
+}
+li {
+    list-style-type: none; 
+   }
+   li::before {
+    color: #70182c;
+    content: "●"; 
+    padding-right: 10px; 
+   }
+.AfterTable
+{
+margin-top: 20px;
+font-size: 20px
+}
+#BeforeTable
+{
+    font-size: 30px
+}
+.ThreeWorksOther
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+}
+.PhotoOfWork
+{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 30px;
+
+    transform: scale(1.0);
+    transition: transform 0.9s;
+}
+.PhotoOfWork:hover
+{
+    transform: scale(1.10);
+    transition: transform 0.9s;
+}
+.graphicSize
+{
+ 
+width: 1300px;
+margin: auto;
+}
+.SleepMan
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+.KrestIzRuk
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+#NopeNope
+{
+width: 420px;
+transform: scale(1.0);
+transition: transform 0.9s;
+}
+#NopeNope:hover
+{
+
+    transform: scale(1.10);
+    transition: transform 0.9s;
+}
+.sellPricee
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+.Order
+{
+font-size: 40px;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+margin-bottom: 30px;
+}
+
+

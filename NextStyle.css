@@ -1,0 +1,61 @@
+*
+{
+    color: white;
+padding: 0%;
+margin: 0%;
+}
+html
+{
+background-color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h1
+{
+text-align: center;
+margin-top: 30px;
+font-size: 40px;
+}
+p
+{
+    text-align: center;
+
+}
+input
+{
+   
+color: black;
+}
+.InputClass
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    margin-top: 30px;
+}
+a
+{
+display: flex;
+
+justify-content: center;
+margin-top: 20px;
+}
+button
+{
+ 
+    margin-top: 20px;
+    font-size: 40px;
+  
+    color:black ;
+}
+.blockOfbtn
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.AfterbtnClick
+{
+font-size: 40px;
+}
